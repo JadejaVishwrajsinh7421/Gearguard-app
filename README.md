@@ -29,7 +29,7 @@
 
 ## ✨ Features
 
-- 📊 **Dashboard** — At-a-glance KPIs: total equipment, pending tasks, overdue items, and active teams
+- 📊 **Dashboard** — At-a-glance APIs: total equipment, pending tasks, overdue items, and active teams
 - 🔧 **Equipment Management** — Add, edit, delete, and search equipment with status tracking
 - 🗂️ **Maintenance Kanban** — Drag-&-drop style task board with Pending / In Progress / Completed columns
 - 📅 **Calendar View** — Visual calendar of upcoming and past maintenance events
